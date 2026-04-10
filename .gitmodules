@@ -1,3 +1,0 @@
-[submodule "sdr_common"]
-	path = sdr_common
-	url = https://github.com/urifry/sdr_common.git
